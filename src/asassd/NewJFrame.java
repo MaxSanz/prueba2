@@ -20,6 +20,7 @@ public class NewJFrame extends javax.swing.JFrame {
 
     /**
      * jorge es una regalada
+     * y puta
      */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
